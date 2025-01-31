@@ -41,7 +41,7 @@ This project implements an **end-to-end real-time sentiment analysis pipeline** 
 ### Steps to Run  
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis-databricks.git
+   git clone https://github.com/Aashrith17/Real-time-Sentiment-Analysis.git
    cd sentiment-analysis-databricks
    ```
 2. Open the Jupyter Notebook  
